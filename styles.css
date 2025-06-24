@@ -65,7 +65,7 @@ body {
     width: 150px;
     text-align: center;
     box-shadow: 0 4px 10px rgba(0, 0, 0);
-    transition: transform 0.2s, background-color 0.2s;
+    transition: 0.2s;
 }
 
 .social-links:hover {
